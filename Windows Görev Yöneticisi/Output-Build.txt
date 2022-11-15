@@ -1,0 +1,1 @@
+﻿1>------ Build started: Project: Windows Görev Yöneticisi, Configuration: Debug Any CPU ------

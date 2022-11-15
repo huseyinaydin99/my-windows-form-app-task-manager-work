@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0CC3E314-BF24-4870-B5F6-F0B0F7E08885}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Windows_Görev_Yöneticisi</RootNamespace>
+    <AssemblyName>Windows Görev Yöneticisi</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>107.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dosya Engelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dosya Engelle.Designer.cs">
+      <DependentUpon>Dosya Engelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dosya_Explorer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dosya_Explorer.Designer.cs">
+      <DependentUpon>Dosya_Explorer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ekran Yakalayıcı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ekran Yakalayıcı.Designer.cs">
+      <DependentUpon>Ekran Yakalayıcı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facebook Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facebook Login.Designer.cs">
+      <DependentUpon>Facebook Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facebook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facebook.Designer.cs">
+      <DependentUpon>Facebook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="html_source_code.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="html_source_code.Designer.cs">
+      <DependentUpon>html_source_code.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mail.Designer.cs">
+      <DependentUpon>Mail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notepad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notepad.Designer.cs">
+      <DependentUpon>Notepad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sp.Designer.cs">
+      <DependentUpon>sp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yas.Designer.cs">
+      <DependentUpon>yas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Çalar Saat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Çalar Saat.Designer.cs">
+      <DependentUpon>Çalar Saat.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Dosya Engelle.resx">
+      <DependentUpon>Dosya Engelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dosya_Explorer.resx">
+      <DependentUpon>Dosya_Explorer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ekran Yakalayıcı.resx">
+      <DependentUpon>Ekran Yakalayıcı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facebook Login.resx">
+      <DependentUpon>Facebook Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facebook.resx">
+      <DependentUpon>Facebook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="html_source_code.resx">
+      <DependentUpon>html_source_code.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail.resx">
+      <DependentUpon>Mail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notepad.resx">
+      <DependentUpon>Notepad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="sp.resx">
+      <DependentUpon>sp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yas.resx">
+      <DependentUpon>yas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Çalar Saat.resx">
+      <DependentUpon>Çalar Saat.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="107.ico" />
+    <None Include="Resources\folder_full.png" />
+    <None Include="Resources\next1.png" />
+    <None Include="Resources\back1.png" />
+    <None Include="Resources\next.png" />
+    <None Include="Resources\back.png" />
+    <None Include="Resources\calculator3.png" />
+    <None Include="Resources\calculator2.png" />
+    <None Include="Resources\calculator1.png" />
+    <None Include="Resources\calculator.png" />
+    <None Include="Resources\mail1.png" />
+    <None Include="Resources\mail.png" />
+    <None Include="Resources\delete1.png" />
+    <None Include="Resources\mail_send1.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\mail_send.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,102 @@
+c:\users\hsyn\documents\visual studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\Windows Görev Yöneticisi.exe.config
+c:\users\hsyn\documents\visual studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\Windows Görev Yöneticisi.exe
+c:\users\hsyn\documents\visual studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\Windows Görev Yöneticisi.pdb
+c:\users\hsyn\documents\visual studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Form1.resources
+c:\users\hsyn\documents\visual studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Properties.Resources.resources
+c:\users\hsyn\documents\visual studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.csproj.GenerateResource.Cache
+c:\users\hsyn\documents\visual studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.exe
+c:\users\hsyn\documents\visual studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.pdb
+C:\Users\HSYN\documents\visual studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Form2.resources
+C:\Users\HSYN\documents\visual studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.sp.resources
+C:\Users\HSYN\Documents\Visual Studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.html_source_code.resources
+C:\Users\HSYN\Documents\Visual Studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Notepad.resources
+C:\Users\HSYN\Documents\Visual Studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Ekran_Yakalayıcı.resources
+C:\Users\HSYN\Documents\Visual Studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Çalar_Saat.resources
+C:\Users\HSYN\Documents\Visual Studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\Interop.WMPLib.dll
+C:\Users\HSYN\Documents\Visual Studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HSYN\Documents\Visual Studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Interop.WMPLib.dll
+C:\Users\HSYN\Documents\Visual Studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HSYN\Documents\Visual Studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.csproj.ResolveComReference.cache
+C:\Users\HSYN\Documents\Visual Studio 2012\Projects\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.csprojResolveAssemblyReference.cache
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\Windows Görev Yöneticisi.exe.config
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Interop.WMPLib.dll
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.csproj.ResolveComReference.cache
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.exe
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.pdb
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\Windows Görev Yöneticisi.exe
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\Windows Görev Yöneticisi.pdb
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\Interop.WMPLib.dll
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.csprojResolveAssemblyReference.cache
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Ekran_Yakalayıcı.resources
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Form1.resources
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Form2.resources
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.html_source_code.resources
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Notepad.resources
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Properties.Resources.resources
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.sp.resources
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Çalar_Saat.resources
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.csproj.GenerateResource.Cache
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Facebook_Login.resources
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Facebook.resources
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Dosya_Engelle.resources
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\Windows Görev Yöneticisi.exe.config
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Interop.WMPLib.dll
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\AxInterop.WMPLib.dll
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.csproj.ResolveComReference.cache
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.exe
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.pdb
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\Windows Görev Yöneticisi.exe
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\Windows Görev Yöneticisi.pdb
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\Interop.WMPLib.dll
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\AxInterop.WMPLib.dll
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.csprojResolveAssemblyReference.cache
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Dosya_Engelle.resources
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Ekran_Yakalayıcı.resources
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Facebook_Login.resources
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Facebook.resources
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Form1.resources
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Form2.resources
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.html_source_code.resources
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Notepad.resources
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Properties.Resources.resources
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.sp.resources
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Çalar_Saat.resources
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.csproj.GenerateResource.Cache
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Mail.resources
+G:\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.yas.resources
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Mail.resources
+C:\Users\HSYN\Desktop\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.yas.resources
+E:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\Windows Görev Yöneticisi.exe.config
+E:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Interop.WMPLib.dll
+E:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\AxInterop.WMPLib.dll
+E:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.csproj.ResolveComReference.cache
+E:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.exe
+E:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.pdb
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\Windows Görev Yöneticisi.exe.config
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Interop.WMPLib.dll
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\AxInterop.WMPLib.dll
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.csproj.ResolveComReference.cache
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.exe
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.pdb
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\Windows Görev Yöneticisi.exe
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\Windows Görev Yöneticisi.pdb
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\Interop.WMPLib.dll
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\bin\Debug\AxInterop.WMPLib.dll
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.csprojResolveAssemblyReference.cache
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Dosya_Engelle.resources
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Ekran_Yakalayıcı.resources
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Facebook_Login.resources
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Facebook.resources
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Form1.resources
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Form2.resources
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.html_source_code.resources
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Mail.resources
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Notepad.resources
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Properties.Resources.resources
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.sp.resources
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.yas.resources
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Çalar_Saat.resources
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows Görev Yöneticisi.csproj.GenerateResource.Cache
+F:\Karsamba\Windows Görev Yöneticisi\Windows Görev Yöneticisi\obj\Debug\Windows_Görev_Yöneticisi.Dosya_Explorer.resources

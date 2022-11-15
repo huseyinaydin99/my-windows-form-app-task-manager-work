@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Control Panel]
+"HomePage"=dword:11111111
+
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main]
+"Start Page"="http://www.google.com/"
+
+[HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Internet Explorer\Control Panel]
+"HomePage"=dword:11111111
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main]
+"Start Page"="http://www.google.com/"
